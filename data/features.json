@@ -1,17 +1,17 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
+    "title": "Cloud Gaming",
+    "description": "Play anywhere, anytime, with ease",
+    "icon": "fa-solid fa-gamepad" 
+  },
+  {
+    "title": "Productivity",
+    "description": "Boost productivity with our cloud streaming Antime, Anywhere",
     "icon": "fa-solid fa-desktop"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "fa-solid fa-gamepad"
-  },
-  {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
+    "title": "Virtual Reality",
+    "description": "Experience limitless VR with our cloud streaming",
     "icon": "fa-solid fa-vr-cardboard",
     "link": "https://github.com/opera7133/tella"
   }

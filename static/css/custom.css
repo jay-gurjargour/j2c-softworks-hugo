@@ -1,4 +1,9 @@
-/* 
+/*
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+/* slide */
+.custom_img_scr_text{
+  color: #0A0078;
+}
