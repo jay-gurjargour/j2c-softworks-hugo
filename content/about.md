@@ -6,20 +6,12 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+We are J2C Softworks, a cloud computing company that provides access to high-performance computing, anywhere and anytime. Our cloud-based service is designed to help companies and individuals to overcome the challenges posed by traditional computing solutions, such as limited resources, time constraints, and cost constraints.
 
-Hugo makes use of a variety of open source projects including:
+Our team of seasoned software engineers and industry experts has a deep passion for advancing the field of cloud computing. We believe that the future of computing lies in the cloud and are dedicated to delivering cutting-edge solutions that maximize the potential of cloud computing.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+One of the major challenges in the gaming industry is the high cost and technical requirements of VR hardware. Our cloud gaming platform offers a solution to this challenge by allowing players to access high-performance VR games without the need for a powerful local PC. This eliminates the need for expensive hardware and makes VR and Cloud gaming accessible to a wider audience.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+We are continuously investing in research and development to improve our cloud gaming technology and bring new and innovative experiences to our users. We believe that the future of gaming lies in the cloud and are proud to be leading the charge towards a more accessible and enjoyable gaming experience for everyone.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Join us in our mission to bring high-performance computing and gaming to the masses.
